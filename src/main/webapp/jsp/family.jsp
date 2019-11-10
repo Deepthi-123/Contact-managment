@@ -17,14 +17,6 @@ Name:          <input type="text" name = "First_Name" placeholder = "First Name"
 Name:          <input type="text" name = "Last_Name" placeholder = "Last Name">
 
 
-Mobile Number: <input type="text" name = "Phone_Number" placeholder = "Phone Number">
-
-
-E-mail ID:     <input type="text" name = "Email_ID" placeholder = "E-mail ID">
-
-
-Address:       <input type="text" name = "Address" placeholder = "Address">
-
 
                      <input type="submit" value = "Save">
 

@@ -34,11 +34,11 @@
 <pre>
     <a class="dropdown-item" href="jsp/family.jsp">Family</a>
     
-    <a class="dropdown-item" href="jsp/Work.jsp">Work</a>
+    <a class="dropdown-item" href="#">Work</a>
     
-    <a class="dropdown-item" href="jsp/Friend.jsp">Friend</a>
+    <a class="dropdown-item" href="#">Friend</a>
     
-    <a class="dropdown-item" href="jsp/Other.jsp">Other</a>
+    <a class="dropdown-item" href="#">Other</a>
     
     </pre>
 </div>
